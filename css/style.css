@@ -1,0 +1,24 @@
+.white-line {
+    border: none;           
+    height: 2px;            
+    background-color: white; 
+    margin: 30px 0;       
+}
+
+.div-coolr {
+    background-color: rgb(56, 56, 56);
+    border-radius: 5px;
+}
+
+.margin{
+    margin-left: 230px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: rgb(192, 192, 192);
+}
+
+
+
+
+
+
